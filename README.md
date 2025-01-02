@@ -1,6 +1,6 @@
 <h3 align="left">For More Information:</h3>
 <p align="left">
-  <a href="https://omidsakaki.ir/Educations" target="blank">omidsakaki.ir</a>
+  <a href="https://omidsakaki.ir/Educations" target="blank"><h2 align="left">omidsakaki.ir</h2></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
