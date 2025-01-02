@@ -1,5 +1,7 @@
-For More Information:
+<h3 align="left">For More Information:</h3>
+<p align="left">
 [https://omidsakaki.ir](https://omidsakaki.ir/Educations)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
